@@ -1,0 +1,15 @@
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.csproj.AssemblyReference.cache
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Robodom2\Desktop\Code\bin\Debug\net7.0\Code.exe
+C:\Users\Robodom2\Desktop\Code\bin\Debug\net7.0\Code.deps.json
+C:\Users\Robodom2\Desktop\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+C:\Users\Robodom2\Desktop\Code\bin\Debug\net7.0\Code.dll
+C:\Users\Robodom2\Desktop\Code\bin\Debug\net7.0\Code.pdb
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.dll
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\refint\Code.dll
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.pdb
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+C:\Users\Robodom2\Desktop\Code\obj\Debug\net7.0\ref\Code.dll
